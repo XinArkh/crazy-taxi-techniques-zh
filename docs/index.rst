@@ -17,7 +17,7 @@ Crazy Taxi 手册中文版
    
    本手册为\ `该网站 <http://www.crazytaxi.net/>`_\ 的\ **非官方**\ 中文翻译。
 
-本手册的目标是帮助每一个喜欢 **疯狂出租车** （\ `Crazy Taxi <https://en.wikipedia.org/wiki/Crazy_Taxi>`_）的玩家取得 "\ **Crazy**\ " 级的排名，即在每一场游戏中拿到 $20,000 以上的分数。
+本手册的目标是帮助每一个喜欢\ **疯狂出租车**\ （\ `Crazy Taxi <https://en.wikipedia.org/wiki/Crazy_Taxi>`_）的玩家取得 "\ **Crazy**\ " 级的排名，即在每一场游戏中拿到 $20,000 以上的分数。
 
 .. toctree::
    :maxdepth: 2
