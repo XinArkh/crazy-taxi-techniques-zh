@@ -64,7 +64,7 @@ html_theme = 'alabaster'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = 'CTT-Logo.png'
+html_logo = './img/CTT-Logo.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -77,7 +77,7 @@ latex_engine = 'xelatex'
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = 'CTT-Logo.png'
+latex_logo = './img/CTT-Logo.png'
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
