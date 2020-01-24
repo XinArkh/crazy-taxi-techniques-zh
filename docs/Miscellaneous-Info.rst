@@ -3,14 +3,25 @@
 其它信息
 ============
 
+.. _wall-stick:
+
+Wall-Stick
+----------------
 
 
-523
+.. _imp-bou:
+
+Impact Bounce
+----------------
 
 
 .. _tele-bug:
 
-TELEPORT BUG
+Teleport Bug
 ----------------
 
-123
+
+.. _gas-padel-max:
+
+Gas Pedal Maximum
+---------------------

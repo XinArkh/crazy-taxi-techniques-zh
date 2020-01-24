@@ -10,6 +10,7 @@ Axel
 -------
 
 .. image:: ./img/CTT-Driver-Axel-100x76.jpg
+   :align: center
 
 优势
 +++++++
@@ -36,11 +37,12 @@ B.D. Joe
 ----------
 
 .. image:: ./img/CTT-Driver-BDJoe-100x76.jpg
+   :align: center
 
 优势
 +++++++
 
-- 最快的普通极限速度
+- 最快的普通极限速度 (Normal Floored Speed)
 - 适中的加速/减速
 - 较重的车重
 - 触发 Crazy Drift 较容易
@@ -67,6 +69,7 @@ Gena
 ------
 
 .. image:: ./img/CTT-Driver-Gena-100x76.jpg
+   :align: center
 
 优势
 +++++++
@@ -102,6 +105,7 @@ Gus
 ----
 
 .. image:: ./img/CTT-Driver-Gus-100x76.jpg
+   :align: center
 
 优势
 +++++++
