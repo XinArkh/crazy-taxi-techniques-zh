@@ -4,7 +4,9 @@
 
 《疯狂出租车》([Crazy Taxi](https://en.wikipedia.org/wiki/Crazy_Taxi)) 是我小时候最早接触的电脑游戏之一，留下了很多美好的回忆，现在怀着怀旧的心情做这么一件闲事，希望这款老游戏能够继续继续发挥余热，给更多人带来欢乐。
 
-NOTE: 后面章节的翻译尚未全部完成，欢迎 pull request 贡献力量。
+<img src="./crazy-taxi.png" height=260 style="margin: 0 auto;" />
+
+**NOTE**: 后面章节的翻译尚未全部完成，欢迎 pull request 贡献力量。
 
 ## 本地构建
 
