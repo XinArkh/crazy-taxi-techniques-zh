@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'crazy-taxi-techniques-zh'
+project = '《疯狂出租车》手册中文版'
 copyright = '2020, Wu Xin'
 author = 'Wu Xin'
 
