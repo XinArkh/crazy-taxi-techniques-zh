@@ -2,10 +2,10 @@
 
 本手册是对[该网站](http://www.crazytaxi.net/)的**非官方**中文翻译，并稍做补充。
 
-《疯狂出租车》([Crazy Taxi](https://en.wikipedia.org/wiki/Crazy_Taxi)) 是我小时候最早接触的电脑游戏之一，留下了很多美好的回忆，现在怀着怀旧的心情做这么一件闲事，希望这款老游戏能够继续继续发挥余热，给更多人带来欢乐。
+《疯狂出租车》([Crazy Taxi](https://en.wikipedia.org/wiki/Crazy_Taxi)) 是我小时候最早接触的电脑游戏之一，留下了很多美好的回忆，现在带着怀旧的心情做这么一件闲事，希望这款老游戏能够继续发挥余热，给更多人带来欢乐。
 
 <p align="center">
-    <img src="./crazy-taxi.png" height="260">
+    <img src="./docs/img/crazy-taxi.png" height=260>
 </p>
 
 **NOTE**: 后面章节的翻译尚未全部完成，欢迎 pull request 贡献力量。
